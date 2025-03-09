@@ -4,4 +4,5 @@
 ![image](https://github.com/user-attachments/assets/7d7b1c5d-99d5-4f30-a06b-cc4153f95473)
 
 下载地址:
-https://www.123684.com/s/ukekTd-iIol
+https://cursor-download.pages.dev/
+
