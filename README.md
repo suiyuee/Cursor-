@@ -1,8 +1,10 @@
 # Cursor-
 真正的Cursor一键免费白嫖工具 支持无限使用Claude3.7
 
-![image](https://github.com/user-attachments/assets/7d7b1c5d-99d5-4f30-a06b-cc4153f95473)
+![image](https://github.com/user-attachments/assets/c8a06307-ce98-4be2-9ae0-392281412077)
 
-下载地址:
+官网下载地址(支持mac和windows版本)：
 https://cursor-download.pages.dev/
 
+如果打不开官网,可以访问下面网盘:
+https://www.123684.com/s/ukekTd-a2ol
